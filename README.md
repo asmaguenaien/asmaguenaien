@@ -81,8 +81,5 @@ I'm currently open to **freelance projects** and **junior web developer** roles.
 
 ---
 
-<p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=asmaguenaien&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
 <p align="center"><i>Thanks for stopping by! Feel free to explore my projects and get in touch. ✨</i></p>
