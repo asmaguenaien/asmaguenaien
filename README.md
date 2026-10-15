@@ -5,8 +5,10 @@
 I design and build responsive, well-structured web apps, from interactive interfaces to role-based applications with authentication and a PostgreSQL database.
 
 📍 Based in Tunis, Tunisia
+
 💼 Available for **freelance** projects and **junior web developer** roles
-📫 [LinkedIn]((https://www.linkedin.com/in/asma-guenaien-b8418321b))
+
+📫 [LinkedIn]   (https://www.linkedin.com/in/asma-guenaien-b8418321b)
 
 ## 🚀 Featured Projects
 
